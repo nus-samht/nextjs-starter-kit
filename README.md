@@ -1,16 +1,18 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+✔ What is your project named? … nextjs-starter-kit\
+✔ Would you like to use TypeScript? … Yes\
+✔ Would you like to use ESLint? … Yes\
+✔ Would you like to use Tailwind CSS? … Yes\
+✔ Would you like to use `src/` directory? … No\
+✔ Would you like to use App Router? (recommended) … Yes\
+✔ Would you like to customize the default import alias (@/*)? … No
 
 First, run the development server:
 
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
+bun install
 bun dev
 ```
 
