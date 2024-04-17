@@ -1,13 +1,14 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
 ✔ What is your project named? … nextjs-starter-kit\
 ✔ Would you like to use TypeScript? … Yes\
 ✔ Would you like to use ESLint? … Yes\
 ✔ Would you like to use Tailwind CSS? … Yes\
 ✔ Would you like to use `src/` directory? … No\
 ✔ Would you like to use App Router? (recommended) … Yes\
-✔ Would you like to customize the default import alias (@/*)? … No
+✔ Would you like to customize the default import alias (@/\*)? … No
 
 First, run the development server:
 
@@ -24,8 +25,8 @@ This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-opti
 
 ## Guidelines
 
-
 ### Review your changes
+
 ```
 bun lint
 bun format:fix
